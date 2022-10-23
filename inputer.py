@@ -1,6 +1,5 @@
 import click
 import os
-import ctypes
 
 class Inputer:
 	def __init__(self, history_filename = None):
